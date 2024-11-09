@@ -3,8 +3,16 @@
     <img src="https://github.com/arielrahmadani/arielrahmadani/blob/main/speed%20jogja.jpg" width="200px"> Hello There, I'm <a href="https://github.com/arielrahmadani">Muhammad Ariel Rahmadani.</a> 
 <h align="right">
 
-Here are some ideas to get you started:
+</h1>
+I'm currently a Infinite Learning student who interested in Web Development & UI/UX Design
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/Code-javascript-ob?&logo=javascript" />
+    <img src="https://img.shields.io/badge/Figma Studio-blue?&logo=Figma" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    </p>
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently a student in Infinite Learning batch 7 </br>
