@@ -1,6 +1,6 @@
 
 <h1 align="left">
-    <img src="https://github.com/arielrahmadani/arielrahmadani/blob/main/speed%20jogja.jpg" width="200px"> Hello There, I'm <a href="https://github.com/arielrahmadani">Muhammad Ariel Rahmadani.</a> 
+    <img src=https://github.com/arielrahmadani/arielrahmadani/blob/main/wave.gif width="70px"> Hello There, I'm <a href="https://github.com/arielrahmadani">Muhammad Ariel Rahmadani.</a> 
 <h align="right">
 
 </h1>
