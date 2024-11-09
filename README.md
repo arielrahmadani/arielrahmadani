@@ -9,10 +9,11 @@ I'm currently a Infinite Learning student who interested in Web Development & UI
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/Code-javascript-ob?&logo=javascript" />
-    <img src="https://img.shields.io/badge/Figma Studio-blue?&logo=Figma" />
+    <img src="https://img.shields.io/badge/figma-blue?&logo=figma" />
+    <img src="https://img.shields.io/badge/code-javascript-blue?&logo=javascript" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    </p>
+</p>
+
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently a student in Infinite Learning batch 7 </br>
